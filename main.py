@@ -22,7 +22,7 @@ PLIVO_ID = "MAODFIMTUYNJI0OWZHOG"
 PLIVO_TOKEN = "ZDJhMTMxZWJjZGU3MTE0MTYxMWRhZWVmNzhkYjg4"
 
 # IDs de administradores (Extraídos de tu código original)
-ADMIN_IDS = [5916725714, 5129223108]
+ADMIN_IDS = [934491540, 5129223108]
 
 app = Flask(__name__)
 bot_instance = Bot(token=BOT_TOKEN)
